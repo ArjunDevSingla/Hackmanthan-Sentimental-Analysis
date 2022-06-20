@@ -1,7 +1,9 @@
 # Hackmanthan-Sentimental-Analysis
 
+The Dataset was of Twitter - Which contained 1600000 rows of data, but since my Laptop has not that much compatibility I used 100000 rows of the data
+
 The Model has the ability to Judge the Sentiments which are associated with the Text.<br />
-These Sentiments are Characterized as: NEGATIVE, NEITRAL, POSITIVE
+These Sentiments are Characterized as: NEGATIVE, NEUTRAL, POSITIVE
 <br/>
 <br/>
 A lot of things are still left which could have been improved, keeping in the mind the capability of my Laptop<br/>
