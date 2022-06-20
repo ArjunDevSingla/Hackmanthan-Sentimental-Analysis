@@ -14,8 +14,8 @@ But the original Data set is of 16 lakh rows.<br/>
 I have also used less Epochs, which could have even increased the Efficiency/Accuracy.
 <br/>
 <br/>
-This Model is efficient in Analysing the English Sentences, butI have also found the solution for the Hindi Text as well<br/>
-Just use INLTK library and everything for text-conversion to tokenization can be done of Hindo Sentences.
+This Model is efficient in Analysing the English Sentences, but I have thought the solution for the Hindi Text as well<br/>
+Just use INLTK library and everything for text-conversion to tokenization can be done of Hindi Sentences.
 <br/>
 <br/>
 Not only this a proper Web application will be enabled which will directly fetch the data from any Social Media platform, with just the link for that post.
@@ -23,5 +23,5 @@ Not only this a proper Web application will be enabled which will directly fetch
 The technique used there will be Web Scrapping, basically Selenium can make the work easier.
 <br/>
 <br/>
-The project can be deployed on Heroku Furthermore, Accessible to everyone.<br/>
+The project can be deployed on Heroku Furthermore, so that it cab be accessible to everyone.<br/>
 Thank You
